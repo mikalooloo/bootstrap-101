@@ -1,0 +1,24 @@
+.btn-rose {
+    background-color: #EA9AB2;
+    border: #EA9AB2;
+    color: white;
+}
+
+.btn-rose:hover {
+    background-color: #F1B8C9;
+    border: #F1B8C9;
+    color: white;
+}
+
+.btn-rose:active:focus {
+    background-color: #E08CA5;
+    border: #E08CA5;
+    color: white;
+}
+
+.btn-rose:focus-visible {
+    background-color: #EA9AB2;
+    border: #EA9AB2;
+    color: white;
+    box-shadow: 0 0 5px 1px #F1B8C9;
+}
